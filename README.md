@@ -1,6 +1,6 @@
 # Performnace_Comparison
 Working on developement of Standalone shared, distributed and Hybrid memeory parallelelization Benchmark Framework.\
-# Languages Used :\
+# Languages Used :
 (1) C \
 (2) C++ \
 (3) Fortran \
