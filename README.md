@@ -1,5 +1,5 @@
 # Performnace_Comparison
-Working on developement of Standalone shared, distributed and Hybrid memory parallelelization Benchmark Framework.
+Working on developement of Standalone shared, distributed and Hybrid memory parallelization Benchmark Framework.
 # Languages Used :
 (1) C \
 (2) C++ \
